@@ -1,0 +1,58 @@
+﻿h1{
+		 
+  font-family: "Times New Roman", Times, serif;
+  font-size:4em;
+}
+
+
+#title{
+moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	margin-bottom:5px;
+	background: #809fff url('Pictures/20160313_130736-min.jpg');
+	background-size: 100% 100%;
+	padding:10px 40px 0px 20px;
+
+}
+.Columns{
+	display: inline-block;
+	vertical-align:top;
+}
+hr {
+	border: none;
+	height: 5px;
+	background-color:black;
+}
+
+
+
+.Picture {
+	width: 29%;
+	margin-top: 50px;
+	border-style:groove;
+	border-color:#809fff;
+	border-width:20px;
+	-moz-border-radius:50px;
+	-webkit-border-radius:50px;
+	border-radius:50px;
+}
+
+.Gallary{
+padding: 0px 10px 20px 20px;
+		-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+
+	background: #809fff;
+
+	
+}
+#backLink{
+	text-align: right;
+	float: right;
+	 font-size:1.25em;
+	 	color: #DF2D00;;
+
+
+}
